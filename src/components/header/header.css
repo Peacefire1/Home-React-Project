@@ -1,0 +1,35 @@
+/* ____________________head______________ */
+
+.head{
+    background-color: #0f3460;
+    padding: 10px 0;
+    color: #fff;
+}
+.head i {
+    margin-right: 10px ;
+}
+.head label {
+    margin-right: 30px;
+    font-size: 13px;
+}
+/* ____________________head______________ */
+/*______________________search__________________*/
+
+.search{
+    padding: 20px 0;
+}
+
+.search .logo img{
+    width: auto;
+    height: auto;
+}
+
+.search .width {
+    width: 20%;
+}
+.search-box{
+    width: 80%;
+    border: 2px solid rgb(red, green, blue);
+}
+
+/*______________________search__________________*/
